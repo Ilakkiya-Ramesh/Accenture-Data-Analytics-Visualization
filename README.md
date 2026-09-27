@@ -83,3 +83,10 @@ This simulation helped me develop practical experience in:
 
 **Completed:** June 2024
 
+---
+
+## 🎓 Certificate
+
+I completed the Accenture North America Data Analytics and Visualization Job Simulation through Forage.
+
+🔗 [View Certificate](https://drive.google.com/file/d/1GAKFlwxRuvxyx4PXRtqrmKmng2KZhIJq/view?usp=drive_link)
